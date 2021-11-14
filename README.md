@@ -1,5 +1,8 @@
 # Dots
-## Using the [Rosé Pine](https://rosepinetheme.com) colorscheme.
+
+Using the [Rosé Pine](https://rosepinetheme.com) colorscheme.
+
+### Screenshots
 
 ![img](/screenshots/image.png)
 
@@ -10,6 +13,8 @@
 ![img](/screenshots/image4.png)
 
 ![img](/screenshots/image5.png)
+
+### Info
 
 * **OS:** Axyl OS
 * **WM:** BSPWM

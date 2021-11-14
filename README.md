@@ -14,6 +14,6 @@ Using the [Rosé Pine](https://rosepinetheme.com) colorscheme.
 * **OS:** Axyl OS
 * **WM:** BSPWM
 * **Bar:** Polybar w/ Polydock
-* **Compositor: ** Picom-jonaburg-git
-* **Launcher & Menus: ** Rofi
+* **Compositor:** Picom-jonaburg-git
+* **Launcher & Menus:** Rofi
 

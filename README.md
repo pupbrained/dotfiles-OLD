@@ -1,5 +1,5 @@
 # Dots
-Using the [Rosé Pine](https://rosepinetheme.com) colorscheme.
+## Using the [Rosé Pine](https://rosepinetheme.com) colorscheme.
 
 ![img](/screenshots/image.png)
 
@@ -16,4 +16,5 @@ Using the [Rosé Pine](https://rosepinetheme.com) colorscheme.
 * **Bar:** Polybar w/ Polydock
 * **Compositor:** Picom-jonaburg-git
 * **Launcher & Menus:** Rofi
+* **Font:** Cartograph CF
 

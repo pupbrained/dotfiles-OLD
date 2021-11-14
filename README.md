@@ -22,4 +22,4 @@
 * **Compositor:** Picom-jonaburg-git
 * **Launcher & Menus:** Rofi
 * **Font:** Cartograph CF
-
+* **Terminal:** Kitty

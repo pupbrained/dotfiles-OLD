@@ -23,3 +23,6 @@
 * **Launcher & Menus:** Rofi
 * **Font:** Cartograph CF
 * **Terminal:** Kitty
+
+Let me know if I'm missing anything!
+
